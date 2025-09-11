@@ -1,4 +1,6 @@
 .venv/
 container-ocr.v11i.yolov11/
 OCR.v1i.yolov8/
+Container OCR.v1-ocr-characters-for-shipping-containers.yolov8/
+enriched_dataset_container-ocr.v1i.yolov8/
 valid/
