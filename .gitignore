@@ -5,4 +5,5 @@ Container OCR.v1-ocr-characters-for-shipping-containers.yolov8/
 enriched_dataset_container-ocr.v1i.yolov8/
 letter.v1i.yolov8/
 char-con-det.v1i.yolov8/
+Label_chi_anh_3_4_5.v2-split-dataset-for-yolo-char.yolov8/
 valid/
